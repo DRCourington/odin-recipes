@@ -1,0 +1,15 @@
+.cornbread, .homefries, .baconandegg {
+    height: auto;
+    width: 400px;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    font-weight: 1000;
+}
+
+li {
+    font-size: 26px;
+    color: blue;
+}
